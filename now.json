@@ -1,0 +1,7 @@
+{
+  "env": {
+    "JWT_SECRET": "@jwt-secret",
+    "JWT_EXPIRATION": "@jwt-expiration",
+    "CONVERTKIT_API_KEY": "@convertkit-api-key"
+  }
+}
